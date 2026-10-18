@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+weaviate_data/
+.DS_Store
+data/images/
+data/clothes.csv
+.pytest_cache/
+.vscode/
+*.log

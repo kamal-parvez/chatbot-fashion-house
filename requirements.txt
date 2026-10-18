@@ -1,0 +1,9 @@
+weaviate-client>=4.23,<5
+google-genai>=1.0
+streamlit>=1.60
+python-dotenv>=1.0
+joblib>=1.4
+pandas>=2.0
+pytest>=8.0
+arize-phoenix-otel>=0.17
+openinference-instrumentation>=0.1.71
